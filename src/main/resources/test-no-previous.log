@@ -1,0 +1,7 @@
+2020-04-01 10:09:22 JobManager - Started job
+2020-04-01 10:09:23 FileManager - Begin downloading files
+2020-04-01 10:30:02 ServiceClient - Finished processing rows
+2020-04-01 10:30:53 ServiceClient - Begin processing rows
+2020-04-01 10:30:53 ServiceClient - Service processed row
+2020-04-01 10:31:11 ServiceClient - Database Error
+2020-04-01 10:39:20 JobManager - Completed job
